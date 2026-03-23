@@ -45,7 +45,7 @@ Given the relatively small dataset in this application, full virtualization was 
 
 ---
 
-## 🎯 Drag and Drop Approach
+##  Drag and Drop Approach
 
 Drag-and-drop functionality is implemented using native HTML5 APIs. When a task is dragged, it is stored temporarily in the global Zustand state. On drop, only the task's status is updated. This approach avoids layout shifts and ensures a smooth and lightweight interaction without relying on external libraries.
 
@@ -64,7 +64,7 @@ Drag-and-drop functionality is implemented using native HTML5 APIs. When a task 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * React
 * TypeScript
