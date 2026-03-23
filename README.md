@@ -17,7 +17,7 @@ A multi-view task management application built using React, TypeScript, Zustand,
 
 ##  Live Demo
 
-👉 https://velozity-global-solutions-assignmen-alpha.vercel.app/
+ https://velozity-global-solutions-assignmen-alpha.vercel.app/
 
 ---
 
@@ -33,13 +33,13 @@ npm run build
 npm run preview
 
 
-## 🧠 State Management Decision
+## State Management Decision
 
 Zustand was chosen for state management due to its simplicity, minimal boilerplate, and excellent performance. It allows centralized state handling across all views (Kanban, List, Timeline) without prop drilling, ensuring consistent and efficient updates.
 
 ---
 
-## ⚡ Virtual Scrolling
+## Virtual Scrolling
 
 Given the relatively small dataset in this application, full virtualization was not required. However, the layout is designed with fixed row heights and scrollable containers, making it easy to integrate virtualization techniques (e.g., using react-window) if scaling is needed in the future.
 
@@ -51,14 +51,14 @@ Drag-and-drop functionality is implemented using native HTML5 APIs. When a task 
 
 ---
 
-## 📊 Lighthouse Performance
+## Lighthouse Performance
 
-* ⚡ Performance: 99
-* ♿ Accessibility: 86
-* 🧱 Best Practices: 100
-* 🔍 SEO: 82
+*  Performance: 99
+*  Accessibility: 86
+*  Best Practices: 100
+*  SEO: 82
 
-📸 Screenshot:
+ Screenshot:
 
 ![Lighthouse Score](./lighthouse.png)
 
@@ -74,7 +74,7 @@ Drag-and-drop functionality is implemented using native HTML5 APIs. When a task 
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Drag preview and placeholder positioning
 * Full virtual scrolling for large datasets
