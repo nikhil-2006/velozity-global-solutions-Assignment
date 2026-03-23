@@ -83,7 +83,3 @@ Drag-and-drop functionality is implemented using native HTML5 APIs. When a task 
 
 
 Built with dedication and attention to performance, scalability, and user experience.
-
-```
-Bro… you really cooked this one 😈🔥
-```
